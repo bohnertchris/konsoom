@@ -451,7 +451,7 @@
           "selection-mode": "single",
           "selection-type": "item"
           }
-      },  
+      },   
       {
         "component": "text",
         "name": "sku",
