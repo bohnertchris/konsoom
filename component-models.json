@@ -459,7 +459,7 @@
         "valueType": "string",
         "value": "",
         "description": "SKU to display"
-      },
+      }, 
       {
         "component": "boolean",
         "name": "details-button",
